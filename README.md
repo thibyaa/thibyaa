@@ -1,7 +1,11 @@
 <!-- ### Hi there 👋
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibyaa&theme=omni&show_icons=true)
+ #### ABOUT ME
 
-**thibyaa/thibyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### GITHUB STATS 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibyaa&show_icons=true&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibyaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--**thibyaa/thibyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
